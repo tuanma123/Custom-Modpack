@@ -1,0 +1,25 @@
+{
+  "minecraft": {
+    "version": "1.12.2",
+    "modLoaders": [
+      {
+        "id": "forge-14.23.5.2836",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "The 103.3 D Modpack Lite",
+  "version": "0.0.1",
+  "author": "foundmyteemo",
+  "projectID": 331980,
+  "files": [
+    {
+      "projectID": 311645,
+      "fileID": 2682936,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
