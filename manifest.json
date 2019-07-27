@@ -5,14 +5,13 @@
       {
 
         "id": "forge-14.23.5.2838",
-        "id": "forge-14.23.5.2836",
         "primary": true
       }
     ]
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "103.3 Test",
+  "name": "103.3 The D Modpack Lite",
   "version": "1.0.0",
   "author": "foundmyteemo",
   "files": [
