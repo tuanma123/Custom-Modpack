@@ -3,6 +3,7 @@
     "version": "1.12.2",
     "modLoaders": [
       {
+
         "id": "forge-14.23.5.2838",
         "primary": true
       }
@@ -10,9 +11,9 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "103.3 Test",
+  "name": "103.3 The D Modpack Lite",
   "version": "1.0.0",
-  "author": "DeeperCheese",
+  "author": "foundmyteemo",
   "files": [
     {
       "projectID": 238222,
