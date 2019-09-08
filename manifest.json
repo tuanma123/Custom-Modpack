@@ -319,22 +319,12 @@
       "projectID": 227639,
       "fileID": 2618264,
       "required": true
-    },   
-    {
-      "projectID": 223628,
-      "fileID": 2287496,
-      "required": true
     },
     {
       "projectID": 223628,
       "fileID": 2287496,
       "required": true
-    },    
-    {
-      "projectID": 224791,
-      "fileID": 2264826,
-      "required": true
-    },    
+    },
     {
       "projectID": 224791,
       "fileID": 2264826,
