@@ -1,0 +1,13 @@
+Mod Added:
+- Chisel
+- YABBA
+- Hwyla
+- Cooking for Blockheads
+- More Overlays
+- Modular Powersuits
+
+Mods Removed:
+- Ore Excavation
+
+Changes: 
+- Updated project ID for OpenComputers in the modlist to be the correct ID.
