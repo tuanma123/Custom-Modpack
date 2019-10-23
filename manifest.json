@@ -12,7 +12,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "103.3 The D Modpack Lite",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "foundmyteemo",
   "files": [
     {
@@ -291,11 +291,6 @@
       "required": true
     },
     {
-      "projectID": 253449,
-      "fileID": 2568751,
-      "required": true
-    },
-    {
       "projectID": 292785,
       "fileID": 2639533,
       "required": true
@@ -433,6 +428,11 @@
     {
       "projectID": 235442,
       "fileID": 2743885,
+      "required": true
+    },
+    {
+      "projectID": 225561,
+      "fileID": 2678374,
       "required": true
     }                                                                    
   ],
