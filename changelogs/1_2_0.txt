@@ -13,3 +13,4 @@ Mods Added:
 Changes:
 - Nerf base generation of the Mechanism wind generator by 25%
 - Nerf base generation of the Mechanism solar generator by 20%
+- Double cost of waystone teleporation scaling
