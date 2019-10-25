@@ -1,0 +1,15 @@
+Mods Added:
+- Light Level Overlay Reloaded
+- Project Red - Integration
+- MrTJPCore
+- Forge Multipart CBE
+- Project Red - Lighting
+- Project Red - Base
+- Blockcraftery
+- BiblioCraft
+- Aroma1997s Dimensional World
+- Aroma1997Core
+
+Changes:
+- Nerf base generation of the Mechanism wind generator by 25%
+- Nerf base generation of the Mechanism solar generator by 20%
